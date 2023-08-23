@@ -1,0 +1,7 @@
+E:\VS Proyectos\TA28_01\bin\Debug\TA28_01.exe.config
+E:\VS Proyectos\TA28_01\bin\Debug\TA28_01.exe
+E:\VS Proyectos\TA28_01\bin\Debug\TA28_01.pdb
+E:\VS Proyectos\TA28_01\obj\Debug\TA28_01.csproj.AssemblyReference.cache
+E:\VS Proyectos\TA28_01\obj\Debug\TA28_01.csproj.CoreCompileInputs.cache
+E:\VS Proyectos\TA28_01\obj\Debug\TA28_01.exe
+E:\VS Proyectos\TA28_01\obj\Debug\TA28_01.pdb
